@@ -3,7 +3,9 @@
 **Mata Kuliah:** Pemrograman Berorientasi Objek
 **Sesi:** 10 (Praktikum Exception Handling)
 
+
 ---
+
 
 ## 📁 Struktur Folder
 
@@ -39,7 +41,13 @@ Tugas_10_Case_ExceptionHandling/
 └── Eksepsi.java
 
 
+
+
+
 ---
+
+
+
 
 ## Ringkasan Percobaan
 
@@ -60,7 +68,7 @@ Tugas_10_Case_ExceptionHandling/
 
 ---
 
-## Cara Menjalankan
+## Menjalankan
 
 ```bash
 # Contoh percobaan1
