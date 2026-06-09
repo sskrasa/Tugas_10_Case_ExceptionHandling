@@ -1,0 +1,19 @@
+# File hasil kompilasi
+*.class
+
+# File sementara
+*.log
+*.tmp
+
+# Folder IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# Folder laporan (opsional, kalau ada docx tetap upload)
+# laporan/*.docx
